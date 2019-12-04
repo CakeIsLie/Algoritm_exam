@@ -281,7 +281,6 @@ int main()
 			cout << "[8]   Date Meteorological winter" << endl;
 			cout << "[9]   Danger for mold inside" << endl;
 			cout << "[10]  Danger for mold outside, lowest to highest" << endl;
-			cout << "[11]  Exit" << endl;
 			cout << "=======================================================" << endl;
 			cout << endl;
 			getline(cin, bub);
