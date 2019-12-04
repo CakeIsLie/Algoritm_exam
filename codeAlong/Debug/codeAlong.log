@@ -1,0 +1,7 @@
+﻿  codeAlong.cpp
+C:\Users\jessi\source\repos\codeAlong\codeAlong\codeAlong.cpp(129,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jessi\source\repos\codeAlong\codeAlong\codeAlong.cpp(133,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jessi\source\repos\codeAlong\codeAlong\codeAlong.cpp(156,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jessi\source\repos\codeAlong\codeAlong\codeAlong.cpp(160,80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jessi\source\repos\codeAlong\codeAlong\codeAlong.cpp(195,7): warning C4101: 'i': unreferenced local variable
+  codeAlong.vcxproj -> C:\Users\jessi\source\repos\codeAlong\Debug\codeAlong.exe
